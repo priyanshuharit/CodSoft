@@ -1,0 +1,170 @@
+/* Custom CSS for Personal Portfolio */
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: #007BFF;
+    color: #AED2FF;
+    padding: 60px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #f8f9fa !important;
+    border-bottom: 2px solid #007BFF;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007BFF !important;
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007BFF;
+}
+
+/* About Section Styles */
+#about {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+/* Skills Section Styles */
+#skills {
+    padding: 60px 0px;
+}
+
+#skills ul {
+    list-style-type: none;
+}
+
+#skills ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Projects Section Styles */
+#projects {
+    /* text-align: center; */
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+/* Resume Section Styles */
+#resume {
+    padding: 60px 0;
+}
+
+#resume a {
+    font-size: 18px;
+    color: #007BFF;
+}
+
+#resume a:hover {
+    text-decoration: underline;
+}
+
+/* Contact Section Styles */
+#contact {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Copyright Text Styles */
+footer p {
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Image Styles */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #007BFF;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.img1
+{
+    max-width: 75%;
+    height: auto;
+    image-orientation: 50%;
+    border-radius: 50%;
+    background-color: #f8f9fa;
+    align-content: center;
+    
+}
+/* .container1
+{
+  height: 300px;
+  width: 100%;
+  border: 3px solid ;
+  padding: 10px;
+  
+  text-align: center;
+
+} */
+.container
+{
+  height: 450px;
+  width: 100%;
+  border: 3px transparent ;
+  padding: 10px;
+  
+  text-align: center;
+
+}
+.con{
+    float: left;
+    height: 50%;
+    width: 20%;
+    padding: 0 10px;
+}
+.container1{
+    height: 400px;
+    width: 100%;
+    border: 3px transparent ;
+    padding: 10px;
+    
+    text-align: center;
+  
+
+}
+.container2{
+    height: 100px;
+    width: 100%;
+    border: 3px transparent ;
+    padding: 10px;
+    
+    text-align: center;
+  
+
+}
+
+
